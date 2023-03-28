@@ -8,4 +8,18 @@
 % Instead, your neighbors Joan and Maxwell are calling you as soon as they hear the alarm (if they are around). 
 % Unluckily for you, both Joan and Maxwell love pranks and sometimes call you only for fun.
 %
-% Refer to other `pbl` files in thid directory for tips, how to name things.
+% >> Refer to other `pbl` files in thid directory for tips, how to name things.
+%
+% Priors:
+% - probability of a burglary in your neighborhood = 0.7.
+% - probability of a heavy earthquake = 0.01.
+% - probability of a mild earthquake equals = 0.19.
+% - the probability that the alarm starts depends on the situation:
+%   * when there both a burglary and a heavy earthquake occur at the same time = 0.90
+%   * when both burglary and a mild earthquake occur at the same time = 0.85
+%   * during a burglary when there is no earthquake = 0.80
+%   * during a heavy earthquake without any burglars = 0.30
+%   * during a mild earthquake without any burglars = 0.10 
+% - the probability of a neihgbor calling you is:
+%   * 0.8 - if the alarm get startled 
+%   * 0.1 - as a prank when there is no alarm  
