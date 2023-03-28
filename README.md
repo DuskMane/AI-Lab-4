@@ -1,6 +1,6 @@
 # Probabilistic Models - Intro
 
-Check [wiki](https://gitlab.com/agh-courses/2021-2022/artificial-intelligence/lab-10-probabilistic-models/-/wikis/home) for the the instructions. 
+Check [wiki](https://gitlab.com/agh-courses/2022-2023/ai/wiki-04/-/wikis/home) for the the instructions. 
 
 ## Setup 
 
