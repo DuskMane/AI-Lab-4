@@ -1,1 +1,11 @@
-
+% TODO:
+% Model a classical problem of burglary versus earthquake. 
+% The story is rather simple:
+% You live in the Los Angeles, a beautiful city where earthquakes are not uncommon. 
+% You've installed a new alarm system in your house that was meant to protect you from burglaries.
+% Unfortunately, the alarm is too sensitive and occasionally, it gets startled by an earthquake. 
+% For that reason, you've set the alarm to not call the police. 
+% Instead, your neighbors Joan and Maxwell are calling you as soon as they hear the alarm (if they are around). 
+% Unluckily for you, both Joan and Maxwell love pranks and sometimes call you only for fun.
+%
+% Refer to other `pbl` files in thid directory for tips, how to name things.
