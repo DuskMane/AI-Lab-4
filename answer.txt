@@ -1,2 +1,2 @@
-probability of burglary = <float number>.
-probability of just an earthquake = <float number>.
+probability of burglary = 0.7.
+probability of just an earthquake = 0.1981.
