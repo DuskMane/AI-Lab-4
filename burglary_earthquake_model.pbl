@@ -30,8 +30,7 @@ neighbour(joan).
 0.7::burglary.
 0.01::earthquake(heavy).
 0.19::earthquake(mild).
-
-earthquake(none) :- \+ earthquake(heavy), \+ earthquake(mild).
+0.8::earthquake(none).
 
 0.9::alarm :- burglary, earthquake(heavy).
 0.85::alarm :- burglary, earthquake(mild).
